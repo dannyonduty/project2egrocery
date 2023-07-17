@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkegrocery"]=self["webpackChunkegrocery"]||[]).push([[443],{1272:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,n=e._self._c;return n("div",{staticClass:"about"},[n("h1",[e._v("This is an about page")])])}],s=t(1001),a={},c=(0,s.Z)(a,u,r,!1,null,null,null),l=c.exports}}]);
+//# sourceMappingURL=about.15cece21.js.map
